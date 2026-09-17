@@ -1,0 +1,8 @@
+ads.microsoft.com
+pagead2.googlesyndication.com
+metrika.yandex.ru
+appmetrica.yandex.ru
+pagead2.googlesyndication.com
+googleads.g.doubleclick.net
+googleads4.g.doubleclick.net
+liftoff.io
