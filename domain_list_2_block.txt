@@ -6,3 +6,6 @@ pagead2.googlesyndication.com
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
 liftoff.io
+ironsource.mobi
+s.youtube.com
+redirector.googlevideo.com
