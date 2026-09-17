@@ -29,3 +29,12 @@ graph.facebook.com
 tr.facebook.com
 graph.instagram.com
 i.instagram.com
+analytics-api.samsunghealthcn.com
+samsung-com.112.2o7.net
+logbak.hicloud.com
+logservice1.hicloud.com
+logservice.hicloud.com
+grs.hicloud.com
+metrics.data.hicloud.com
+data.mistat.rus.xiaomi.com
+api-adservices.apple.com
